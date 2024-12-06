@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mnist_model
+Version: 1.0.0
+Summary: MNIST Model with parameter constraints
+Author: Your Name
+Author-email: Your Name <your.email@example.com>
+Requires-Python: >=3.8

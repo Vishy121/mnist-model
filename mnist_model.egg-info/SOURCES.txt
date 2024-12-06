@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+mnist_model.egg-info/PKG-INFO
+mnist_model.egg-info/SOURCES.txt
+mnist_model.egg-info/dependency_links.txt
+mnist_model.egg-info/top_level.txt
+tests/test_model.py
